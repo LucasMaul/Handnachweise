@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Handnachweise
+Version: 0.0.1
+Summary: A Package that renders different Calculations in Latex based on the SIA-Norms used by Structural Engineers.
+Author: Pascal Gitz
+Author-email: <pascal.gitz@hotmail.ch>
+Keywords: handcalcs,structural Engineer
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows

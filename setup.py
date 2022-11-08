@@ -18,7 +18,7 @@ setup(
     keywords=['handcalcs', 'structural Engineer', ],
     classifiers=[
         "Development Status :: 1 - Planning",
-        "Intended Audience :: Structural Engineers from Switzerland",
+        "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Microsoft :: Windows",
     ]

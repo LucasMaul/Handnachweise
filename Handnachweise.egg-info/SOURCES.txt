@@ -1,0 +1,8 @@
+README.md
+setup.py
+Handnachweise/Beton.py
+Handnachweise/__init__.py
+Handnachweise.egg-info/PKG-INFO
+Handnachweise.egg-info/SOURCES.txt
+Handnachweise.egg-info/dependency_links.txt
+Handnachweise.egg-info/top_level.txt

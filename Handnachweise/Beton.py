@@ -49,7 +49,7 @@ def platte_querkraft_normativ(v_xd, v_yd, m_xd, m_yd, m_xyd, m_xRd, m_yRd, f_sd,
     m_nRd = m_xRd * cos(phi_0d)**2 + m_yRd*sin(phi_0d)**2
     m_nd = cos(phi_0d)**2*m_xd + sin(phi_0d)**2*m_yd + sin(2*phi_0d)*m_xyd
 
-    k_g = 48/(16+D_max)* m_nd/m_nd
+    k_g = 48/(16+D_max)
 
     zeta = 1/(sin(phi_0d)**4+cos(phi_0d)**4)
 
